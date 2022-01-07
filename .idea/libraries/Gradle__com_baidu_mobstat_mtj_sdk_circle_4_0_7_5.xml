@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.baidu.mobstat:mtj-sdk-circle:4.0.7.5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Tools/gradle-6.1.1/caches/modules-2/files-2.1/com.baidu.mobstat/mtj-sdk-circle/4.0.7.5/e7f9be98d8a3d392e1113e8ad78f49f4d05adaf1/mtj-sdk-circle-4.0.7.5.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../Tools/gradle-6.1.1/caches/modules-2/files-2.1/com.baidu.mobstat/mtj-sdk-circle/4.0.7.5/2d01a01d3f1863c30790b5159bb36e3abb6811a7/mtj-sdk-circle-4.0.7.5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../Tools/gradle-6.1.1/caches/modules-2/files-2.1/com.baidu.mobstat/mtj-sdk-circle/4.0.7.5/f50ee7ed2d093ac9079cc03ea6a0c9e5b49b5424/mtj-sdk-circle-4.0.7.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
